@@ -8,7 +8,7 @@
 
 -👁️ Visão Computacional
 
--🐍 Python Back-end
+-🐍 Python Back-End
 
 -📨 Contate-me em: enricofermi2019@gmail.com
 
