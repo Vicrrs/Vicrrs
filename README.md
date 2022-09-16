@@ -6,9 +6,9 @@
 
 -🐍 Estudante de Python
 
--👁️ Visão Computacional
-
 -🐍 Python Back-End
+
+-🐘PHP Back-End
 
 -📨 Contate-me em: enricofermi2019@gmail.com
 
