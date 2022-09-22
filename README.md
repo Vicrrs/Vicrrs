@@ -6,6 +6,8 @@
 
 -🐍 Estudante de Python
 
+- Visão Computacional
+
 -🐍 Python Back-End
 
 -🐘PHP Back-End
