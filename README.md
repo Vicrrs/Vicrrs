@@ -7,6 +7,7 @@
 -🐍 Estudante de Python
 
 - Visão Computacional
+ -Formação Python para Data Science
 
 -🐍 Python Back-End
 
