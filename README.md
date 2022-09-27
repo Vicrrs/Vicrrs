@@ -10,7 +10,7 @@
 - Formação Python para Data Science
 
 -🐍 Python Back-End
--Flask
+* Flask
 
 -🐘PHP Back-End
 
