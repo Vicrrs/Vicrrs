@@ -11,6 +11,7 @@
 
 -🐍 Python Back-End
 * Flask
+* Fast API
 
 -PHP Back-End
 
