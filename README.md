@@ -4,9 +4,10 @@
 
 -⚛️  Estudante de Física.
 
--🐍 Estudante de Python
+-🐍 Python Developer
 
 - Visão Computacional
+
 - Formação Python para Data Science
 
 -🐍 Python Back-End
