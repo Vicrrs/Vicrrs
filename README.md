@@ -14,7 +14,6 @@
 * Fast API
 * Django
 
--PHP Back-End
 
 -📨 Contate-me em: victorroza22@gmail.com
 
