@@ -11,8 +11,8 @@
 - Formação Python para Data Science
 
 -🐍 Python Back-End
-* Flask
 * Fast API
+* Django
 
 -PHP Back-End
 
