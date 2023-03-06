@@ -1,5 +1,5 @@
 # 💫 About Me: Victor Roza
-💻 Recentemente trabalhando com Python<br>⚛️ Estudante de Física.<br>🐍 Machine Learning<br>👁️Visão Computacional<br><br>Formação Python para Data Science<br><br>🐍 Python Back-End<br>Fast API<br><br>Django<br>-📨 Contate-me em: victorroza22@gmail.com
+💻 Recentemente trabalhando com Python<br>⚛️ Estudante de Física.<br>🐍 Machine Learning<br>👁️Visão Computacional<br><br>Formação Python para Data Science<br><br>🐍 Python Back-End<br>* Fast API * Django<br>-📨 Contate-me em: victorroza22@gmail.com
 
 
 ## 🌐 Socials:
