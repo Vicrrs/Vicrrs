@@ -1,7 +1,6 @@
 # 💫 About Me: Victor Roza
 💻 Recentemente trabalhando com Python<br>⚛️ Estudante de Física.<br>🐍 Machine Learning<br>👁️Visão Computacional<br><br>Formação Python para Data Science<br><br>🐍 Python Back-End<br>* Fast API * Django * Flask<br>-📨 Contate-me em: victorroza22@gmail.com
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorroza22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-roza-souza-804a031a0/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17430753) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjNM_y5b1OVzANf4sXh8rug) 
 
